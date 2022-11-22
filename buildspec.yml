@@ -25,3 +25,4 @@ artifacts:
     - next.config.js
     - tsconfig.json
     - tsconfig.server.json
+    - destination: /var/www/scouty-desktop/
